@@ -1,0 +1,29 @@
+.navcolor{
+	background-color: brown;
+	margin-bottom: 0px;
+	border:none;
+}
+ 
+.navbar-default .navbar-nav > li >a{
+ 	color: white;
+ }
+
+.navbar-default .navbar-brand{
+	color: white;
+	font-weight: bold;
+}
+
+.carouselme {
+    height: 550px;
+}
+
+.about-pizza{
+	margin-top: 	3rem;
+	margin-bottom: 	5rem;
+}
+
+.footer{
+	background-color: brown;
+	padding: 1.5rem 0;
+	color: white;
+}
